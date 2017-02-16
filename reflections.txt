@@ -1,0 +1,14 @@
+fsutil file createnew filename file_name(only for admins)
+
+1. How does having access an entire history of a file make you a  more efficient programmer in the long run?
+A- It helps us to quickly realise changes we've made in the past.
+ If not available we could lose the stable version of our program.
+
+2. Why do you think some version controls like Git, allow saving multiple files in one commit, while others, like Google Docs,
+each file seperately?
+A- Multiple files can be dependant or related to each other for their functions. So change in one file can effect the behaviour of 
+other files. Hence, they allow commit for multiple files.
+
+3. How can you use the commands git log and git diff to view the history of files?
+A- Git log shows the all the commits, which are the logical seperations of out project over time. git diff can be used to 
+differentiate any two version in the history of the project.
