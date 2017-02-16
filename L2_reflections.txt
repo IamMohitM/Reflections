@@ -1,0 +1,2 @@
+1. What happends whe ou initialise a repository? Why do you nedd it?
+A- A new repository is created(.git). We need to track changes to our files. It record history of our file.
