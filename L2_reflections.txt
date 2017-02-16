@@ -1,2 +1,7 @@
-1. What happends whe ou initialise a repository? Why do you nedd it?
+1. What happens when you initialise a repository? Why do you needd it?
 A- A new repository is created(.git). We need to track changes to our files. It record history of our file.
+
+2. How is the staging area different from the working directory and repository? What value do you think it offers?
+A- Files in the staging area are like the part of the project where the changes have been made and where the changes need
+to be committed. It's more like starting to track your files.
+It gives more control in our VCS. We can commit multiple files in our staging are in just one go.
