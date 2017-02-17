@@ -1,1 +1,6 @@
 1. Just learning how to pull the files created on github.
+
+1. Describe the differences between forks, clones and branches. When would you use one instead?
+A- Fork- To clone a repository and edit it only on the github server.
+Clone- To get a repository from a remote address to a local computer.
+Branch- For experimenting with the projects and adding a new features.
