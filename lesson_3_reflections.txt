@@ -4,3 +4,6 @@
 A- Fork- To clone a repository and edit it only on the github server.
 Clone- To get a repository from a remote address to a local computer.
 Branch- For experimenting with the projects and adding a new features.
+
+2.What is the benefit of having a copy of the last known state of the remote stored locally?
+A- Of course, fast forward merges and also easier to track the changes.
