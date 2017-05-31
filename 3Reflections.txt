@@ -2,3 +2,9 @@ When would you want to use a remote repository rather than keeping all your work
 
 When we have a team project we might want to collaborate using a remote repository. That way the team won't be dependent on one member and
 will also have multiple copies of project if each clone the repository.
+
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Because if we are adding a new feature if each commit is pulled it might create confusion as complete feature might not be available.
+Usualy a new feature has more than one commit.
