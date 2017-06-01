@@ -1,0 +1,11 @@
+What happens you when you initialize a repository? Why do you need it?
+
+A .git hidden metadat file is added
+
+This file tracks the changes/history of the whole repository.
+
+What are some situations when branches would be helpful in keeping your history organized?
+How would branches help?
+
+When you want to make experimental changes or add new features to your project, branches can
+be highly useful. you wouldn't want to cripple your stable program. 

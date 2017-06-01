@@ -1,0 +1,16 @@
+How could history of a file help to make you an effiecient programmer?
+
+It's easier to debug
+
+Why do you think some version-control systems like Git allow multiple files in one commit, while others.
+like Google Docs treat each file seperately?
+
+Initially, Git was created for programming. In Programming each file can be related to multiple files and hence,
+change in one can effect other files. While Google docs is ot used for programming but for writing reports, posts etc.
+And changes in one file can't/won't effect or are related to other files.
+
+How can use git log and git diff to view history of files?
+
+Git log displays all the commits. Commit is a snapshot of all files in your repository.
+Git diff shows the differences between two commits.
+
