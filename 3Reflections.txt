@@ -8,3 +8,9 @@ Why might you want to always pull changes manually rather than having Git automa
 
 Because if we are adding a new feature if each commit is pulled it might create confusion as complete feature might not be available.
 Usualy a new feature has more than one commit.
+
+Describe the difference between forks, clone and branches. When would you use one instead of another?
+
+Forks- The project's repository is copied to the github account, not the local account and linked to the original author.
+Clone- The project's repository is copied to the local account
+Branches- When new features are to be added for experimenting and the stable version should be affected, then we create a branch. The commits are not part of the stable version.
